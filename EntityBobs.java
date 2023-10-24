@@ -4,7 +4,7 @@
  * This class provides methods for Create, Read, Update, and Delete (CRUD)
  * operations on individual entries in the Bobs table.
  * 
- * @author anwitathangam
+ * @author AnwitaThangam
  * @version 2023.10.23
  *
  */
